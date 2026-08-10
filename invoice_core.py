@@ -40,7 +40,7 @@ COURSES = [
     "Corporate Lawyer Launchpad",
     "All Access Pack",
     "Finance Launchpad",
-    "Marketing Launchpad"
+    "Marketing Launchpad",
     "Placement Accelerator for Technology Careers"
 ]
 
@@ -50,7 +50,7 @@ COURSE_ITEM_CODES = {
     "Corporate Lawyer Launchpad": "IL3073393C",
     "All Access Pack": "IL3073395P",
     "Finance Launchpad": "IL3073397F",
-    "Marketing Launchpad": "IL3073399M",,
+    "Marketing Launchpad": "IL3073399M",
     "Placement Accelerator for Technology Careers": "IL3073399O",
 }
 
