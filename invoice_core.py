@@ -41,7 +41,8 @@ COURSES = [
     "All Access Pack",
     "Finance Launchpad",
     "Marketing Launchpad",
-    "Placement Accelerator for Technology Careers"
+    "Placement Accelerator for Technology Careers",
+    "Future Doctor Launchpad"
 ]
 
 # Item codes shown under the course name on the invoice, same as the sample doc
@@ -52,6 +53,7 @@ COURSE_ITEM_CODES = {
     "Finance Launchpad": "IL3073397F",
     "Marketing Launchpad": "IL3073399M",
     "Placement Accelerator for Technology Careers": "IL3073399O",
+    "Future Doctor Launchpad": "IL30733991",
 }
 
 # --------------------------
