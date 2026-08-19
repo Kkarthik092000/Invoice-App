@@ -54,7 +54,7 @@ COURSE_ITEM_CODES = {
     "Finance Launchpad": "IL3073397F",
     "Marketing Launchpad": "IL3073399M",
     "Placement Accelerator for Technology Careers": "IL3073399O",
-    "Future Doctor Launchpad": "IL30733991",,
+    "Future Doctor Launchpad": "IL30733991",
     "Marketing Career Kickstarter": "IL30733992",
 }
 
